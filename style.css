@@ -1,0 +1,237 @@
+
+
+.globle p
+{
+	padding-right: 50px;
+	padding-left: 50px;
+	color: gray;
+	font-size: 18px;
+}
+
+.textdata h5
+{
+	position: relative;
+	top: 0px;
+	margin: 0 70px 0 70px;
+	font-size: 100px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+.textdata p
+{
+	position: relative;
+	color: red;
+	top:-20px;
+	font-size: 120px;
+	font-weight: 500;
+}
+
+.rreview
+{
+	background-image: url("Light Blue.jpg");
+}
+
+.review .carousel {
+    width: 650px;
+    margin: 0 auto;
+    padding-bottom: 50px
+}
+
+.review .carousel .item {
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+    overflow: hidden;
+    min-height: 340px
+}
+
+.review .carousel .item a {
+    color: #eb7245
+}
+
+.review .carousel .img-box {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 50%
+}
+
+.review .carousel .img-box img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 50%
+}
+
+.review .carousel .testimonial {
+    padding: 30px 0 10px
+}
+
+.review .testimonial {
+    color: #000000;
+    font: Times Roman
+}
+
+.review .carousel .overview {
+    text-align: center;
+    padding-bottom: 5px
+}
+
+.review .carousel .overview b {
+    color: #333;
+    font-size: 15px;
+    text-transform: uppercase;
+    display: block;
+    padding-bottom: 5px
+}
+
+.review .carousel .carousel-indicators {
+    bottom: 15px
+}
+
+.review .carousel-indicators li
+ {
+    width: 11px;
+    height: 11px;
+    margin: 1px 5px;
+    border-radius: 50%;
+}
+
+.review .carousel-indicators li.active
+{
+	width: 20px;
+	height: 11px;
+    margin: 1px 5px;
+    border-radius: 50%
+}
+
+.review .carousel-indicators li {
+    background: #e2e2e2;
+    border-color: transparent
+}
+
+.review .carousel-indicators li.active {
+    border: none;
+    background: #888
+}
+
+
+/*---------------------------------------------*/
+
+.grounds img
+{
+	border: 4px dotted blue;
+}
+
+.card-group .card
+{
+	border: none;
+	padding: 20px;
+}
+
+.card-group .card .venu
+{
+	padding: 2px;
+	margin-right: 200px;
+	margin-top: -100px;
+}
+
+.card-group .card .venu h5
+{
+	padding-left: 40px;
+	font-size: 16px;
+	color: red;
+
+}
+
+.text1 .maindata
+{
+
+	padding-left: 20px;
+	border-left: 5px solid red;
+}
+
+.text1 .data p
+{
+	font-size: 14px;
+	color: gray;
+	padding-left: 10px;
+}
+
+.text1 .data span
+{
+	font-size: 14px;
+	color: gray;
+	margin-left: 20px;
+}
+
+.text1 .btn
+{
+	padding-left: 25px;
+	padding-bottom: 30px;
+}
+
+.footer .line
+{
+	border-bottom: 3.5px solid red;
+	width: 15%;
+	margin-bottom: 30px;
+}
+
+.footer-links {
+	padding-left: 50px;
+
+}
+.footer-links ul{
+  	padding: 0;
+  	overflow: hidden;
+	list-style-type: none;
+}
+
+.footer-links ul li
+{
+	padding-bottom: 10px;
+}
+
+.footer-links a
+	{
+
+		color: white;
+		text-decoration: none;
+	}
+
+.social-links a
+	{
+		color: red;
+		margin-left: 10px;
+	}
+	.social-links a.facebook i
+	{
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	.social-links a.instagram i
+	{
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.social-links a i
+	{
+		font-size: 20px;
+		/*background-color: white;*/
+		border: 1px solid red;
+		padding: 10px;
+		border-radius: 40px;
+	}
+	.social-links a i:hover
+	{
+		border: 1px solid white;
+		background-color: transparent;
+		color: white;
+		
+		
+	}
+
+
+
